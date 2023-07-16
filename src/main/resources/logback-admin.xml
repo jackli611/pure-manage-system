@@ -64,7 +64,7 @@
 		<appender-ref ref="adminLog" />
 	</logger>
 
-	<logger name="com.boot.security.server.dao" level="DEBUG" additivity="true">
+	<logger name="com.pure.manage.server.dao" level="DEBUG" additivity="true">
 		<appender-ref ref="sqlLog" />
 	</logger>
 
